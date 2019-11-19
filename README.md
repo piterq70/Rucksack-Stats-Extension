@@ -1,6 +1,7 @@
 # Rucksack-Stats-Extension
 
 ## Demo Setup:
+- Open two demo scenes **Rucksack-Stats-Scene-DEMO** and **Rucksack-Stats-UI-DEMO**
 
 - Demo contain custom items so there is custome item factory binder with new custome items:
 ItemFactory.Bind<UnityEquippableItemWithStatsDefinition, UnityEquippableItemInstanceWithStats>();
